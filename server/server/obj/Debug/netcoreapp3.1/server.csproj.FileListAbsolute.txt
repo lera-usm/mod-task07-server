@@ -1,0 +1,13 @@
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.csproj.AssemblyReference.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task07-server\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
